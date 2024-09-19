@@ -5,6 +5,7 @@ Lasso Regression Projects
 This repository contains two projects demonstrating the application of Lasso Regression, focusing on sales prediction and feature selection across different datasets.
 
 #Projects
+
 1)Ice Cream Sales Prediction
 
 Description: This project involves predicting ice cream sales based on temperature. Lasso Regression is used to analyze the relationship between these variables and forecast sales.
